@@ -8,7 +8,7 @@ This project showcases a dynamic sales performance dashboard built using Microso
 ##  Dataset Used
 **Source:** Provided by Mantra Data Labs  
 **Period Covered:** 2022–2024  
-**Link:** [Add your dataset link here]
+**Link:** https://docs.google.com/spreadsheets/d/1lzpXoAgfDlAW0IUsl3DnTAI6eDoPvkY6/edit?gid=2066689394#gid=2066689394
 
 **Key Columns:**
 - `date`, `sku`, `brand`, `segment`, `category`, `pack_type`
