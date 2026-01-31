@@ -1,4 +1,4 @@
-# Amit's Portfolio Projects
+# Portfolio Projects
 ## Following are my Projects
 
 # Project1: National Sales Intelligence Dashboard – Mantra Data Labs Case Study
