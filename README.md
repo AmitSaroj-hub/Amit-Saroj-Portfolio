@@ -1,4 +1,4 @@
-# Amit's Data Analytics Projets
+# Amit's Data Analytics Projects
 # Project1:📊 National Sales Intelligence Dashboard – Mantra Data Labs Case Study
 
 ##  Project Objective
