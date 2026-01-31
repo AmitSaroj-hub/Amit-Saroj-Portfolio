@@ -1,5 +1,10 @@
 # Portfolio Projects
-## Following are my Data Analytics Projects.
+## 
+Welcome to my data analytics portfolio! 
+This repository contains a collection of projects showcasing skills in
+data cleaning, transformation, visualization, and business intelligence.
+
+
 
 # Project 1: National Sales Intelligence Dashboard – Mantra Data Labs Case Study
 
